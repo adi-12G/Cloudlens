@@ -17,3 +17,4 @@ export async function getS3Buckets() {
 
   return await client.send(command);
 }
+
